@@ -1,3 +1,7 @@
+# Oi, eu sou o Thiago. 😎
+
+## Instrutor/Programador Front-End
+
 <div
 style="display: flex; justify-content: center; align-items: center">
 
@@ -11,9 +15,9 @@ Front-End (HTML/CSS/JS/Angular)**
 \- 📫 Caso queira me mandar um e-mail: <thiago.faccipieri@gmail.com>
 
 </div>
-
+<div>
 <img src="./imgBackground.png" width="300" />
-
+  </div>
 </div>
 
 ## Languages and Tools:
@@ -25,8 +29,6 @@ Front-End (HTML/CSS/JS/Angular)**
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" />][]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" />][]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />][]
-[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" alt="jest" />][]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" />][]
 
 ![][1]
 
@@ -45,8 +47,4 @@ Front-End (HTML/CSS/JS/Angular)**
     https://www.w3.org/html/
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />]:
     https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" alt="jest" />]:
-    https://jestjs.io
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" />]:
-    https://www.mysql.com/
-  [1]: https://raw.githubusercontent.com/devicons/devicon%0A
+  [1]: htt%0A
