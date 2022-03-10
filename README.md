@@ -19,6 +19,8 @@
 
 <div style="display: flex; align-items: center; justify-content: center; width: 90vw">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=radical" alt="tjfaccipieri" style=' display: block; margin: 0 auto;' />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=radical" alt="tjfaccipieri" style=' display: block; margin: 0 auto;' />
+  </p>
 
 </div
