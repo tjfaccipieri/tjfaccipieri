@@ -1,15 +1,13 @@
 
-<h1 align="center">Hello 👋, eu sou o Thiago faccipieri</h1>  
+<h1 align="center">Hello 👋, eu sou o Thiago Faccipieri <h2 align="center">Mas também pode me chamar de TJ</h2></h1>  
 <h3 align="center">Programador FullStack e Instrutor na Generation Brazil</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjfaccipieri&label=Profile%20views&color=0e75b6&style=flat" alt="tjfaccipieri" /> </p>  
-  
-  -🔭 Instrutor a mais de 10 anos, atualmente lecionando para turmas de desenvolvimento FullStack e também no treinamento AWS Re/Start.
-  -🥇 AWS Certified Solutions Architect – Associate.
-   -⌨️ Sempre estudando aquele pouquinho a mais sobre desenvolvimento, principalmente focando em FrontEnd.
+  - 🔭 Instrutor a mais de 10 anos, atualmente lecionando para turmas de desenvolvimento FullStack e também no treinamento AWS Re/Start.
+  - 🥇 AWS Certified Solutions Architect – Associate.
+   - ⌨️ Sempre estudando aquele pouquinho a mais sobre desenvolvimento, principalmente focando em FrontEnd.
    > Nada contra o backend, juro.. 😎
    
- -⚡ Viciado em cubos mágicos e ouvir músicas de gosto duvidoso.  
+ - ⚡ Viciado em cubos mágicos e ouvir músicas de gosto duvidoso.  
   
 <h3 align="left">Quer mandar uma mensagem?</h3>  
 <p align="left">  Chama por aqui ... prometo que respondo ⇒ <a href="https://linkedin.com/in/thiago-faccipieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-faccipieri" height="15" width="30" /></a>  </p>  
