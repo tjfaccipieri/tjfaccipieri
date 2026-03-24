@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello 👋, eu sou o Thiago Faccipieri <h2 align="center">Mas também pode me chamar de TJ</h2></h1>  
-<h3 align="center">Programador FullStack e Instrutor na Generation Brazil</h3>  
+<h3 align="center">Programador FullStack e Coordenador de Instrutoria na Escola da Nuvem</h3>  
   
-  - 🔭 Instrutor a mais de 10 anos, atualmente lecionando para turmas de desenvolvimento FullStack e também no treinamento AWS Re/Start.
+  - 🔭 Instrutor a mais de 10 anos, lecionando para turmas de desenvolvimento FullStack e também no treinamento AWS Re/Start.
   - 🥇 AWS Certified Solutions Architect – Associate.
    - ⌨️ Sempre estudando aquele pouquinho a mais sobre desenvolvimento, principalmente focando em FrontEnd.
    > Nada contra o backend, juro.. 😎
